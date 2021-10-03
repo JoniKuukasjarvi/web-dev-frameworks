@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\..\\..\\oamk\\WebFrameworks\\js-primer-class"
+		},
+		{
+			"path": "..\\..\\..\\WebFrameworks-master\\react-intro"
+		},
+		{
+			"path": "..\\.."
+		}
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true
+	}
+}
